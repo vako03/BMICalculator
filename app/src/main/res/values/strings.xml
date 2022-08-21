@@ -4,6 +4,7 @@
     <string name="hint_1">Enter your weight</string>
     <string name="hint_2">Enter your height</string>
     <string name="button">Calculate</string>
+    <string name="text_bmi_result">Your BMI IS</string>
 
 
 </resources>

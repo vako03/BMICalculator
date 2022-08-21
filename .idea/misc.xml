@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/dimens.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/edit_txt_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/edittext_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/edittxt_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/ic_eat.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/drawable/ic_workout.xml" value="0.1125" />
+        <entry key="..\:/Users/Vuka/Desktop/BMICalculator/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
